@@ -1,0 +1,1061 @@
+@media(min-width:2560px){
+	/*comman*/
+	.container{
+		width: 1250px;
+	}
+
+	.inner-footer .container,
+	.inner-nav .container,
+	.stake-inner .container{
+		width: 1690px;
+  		max-width: 1690px;
+	}
+	/*comman end*/
+}
+@media(min-width:2000px) and (max-width:2560px){
+	/*comman*/
+	.container{
+		width: 1250px;
+		max-width: 1250px;
+	}
+
+	.inner-footer .container,
+	.inner-nav .container,
+	.stake-inner .container{
+		width: 1690px;
+  		max-width: 1690px;
+	}
+	/*comman end*/
+}
+@media(min-width:1800px) and (max-width:1999px){
+	/*comman*/
+	.container{
+		width: 1250px;
+		max-width: 1250px;
+	}
+
+	.inner-footer .container,
+	.inner-nav .container,
+	.stake-inner .container{
+		width: 1690px;
+  		max-width: 1690px;
+	}
+	/*comman end*/
+}
+@media(min-width:1551px) and (max-width:1799px){
+	/*comman*/
+	.container{
+		width: 1250px;
+		max-width: 1250px;
+	}
+
+	.inner-footer .container,
+	.inner-nav .container,
+	.stake-inner .container{
+		width: 1500px;
+  		max-width: 1500px;
+	}
+	/*comman end*/
+	/*index*/
+	/*index end*/
+	/*inner pages*/
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 75px 40px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 10px;
+	}
+	/*inner pages end*/
+}
+@media(min-width:1351px) and (max-width:1550px){
+	/*comman*/
+	.container{
+		width: 1250px;
+		max-width: 1250px;
+	}
+
+	.inner-footer .container,
+	.inner-nav .container,
+	.stake-inner .container{
+  		max-width: 1290px;
+	}
+
+	.banner-info-right:before{
+    	right: -35px;
+    	height: 127%;
+    	transform: rotate(4deg);
+	}
+	.banner-info-left:before{
+    	transform: rotate(5deg);
+	}
+	/*comman end*/
+	/*inner pages*/
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 75px 40px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 6px;
+	}
+	/*inner pages end*/
+}
+@media(min-width:1200px) and (max-width:1350px){
+	/*comman*/
+	.banner-info-right:before{
+    	right: -35px;
+    	height: 127%;
+    	transform: rotate(0deg);
+	}
+	.banner-info-left:before{
+    	transform: rotate(0deg);
+	}
+	/*comman end*/
+	/*inner pages*/
+	.banner-info h4{
+	    font-size: 20px;
+	}
+
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li{
+		padding: 0;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 75px 40px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 6px;
+	}
+
+	.join-wrapper{
+		padding: 40px 0;
+	}
+	/*inner pages end*/
+}
+@media(min-width:1025px) and (max-width:1199px){
+	/*comman*/
+	.banner-info-right:before{
+    	right: -35px;
+    	height: 127%;
+    	transform: rotate(0deg);
+	}
+	.banner-info-left:before{
+    	transform: rotate(0deg);
+	}
+
+	.banner-info-center:before{
+		top: -33px;
+    	left: 12px;
+    	height: 118%;
+		transform: rotate(4deg);
+	}
+	/*comman end*/
+	/*index*/
+	.banner-info{
+		padding: 44px 30px 24px;
+	}
+	.banner-info h4{
+		font-size: 18px;
+	}
+	.banner-info p{
+		font-size: 14px;
+		line-height: 26px;
+	}
+
+	.join-wrapper{
+		padding: 40px 0;
+	}
+	/*index end*/
+	/*inner pages*/
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li{
+		padding: 0;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 75px 40px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 6px;
+	}
+	.stake-active-table .stake-table, .stake-bonus, .stake-side-form {
+    	padding: 25px 20px;
+	}
+
+	.stake-bonus-head{
+		margin-bottom: 10px;
+	}
+	.stake-bonus-blk .row{
+		display: block;
+	}
+	.stake-bonus-blk .row .col-md-4{
+		width: 100%;
+		flex: 0 0 100%;
+    	max-width: 100%;
+    	padding: 10px 0;
+    	border-right: none;
+    	border-bottom: 2px solid #2a2e88;
+	}
+	.stake-bonus-blk .row .col-md-4:last-child{
+		border: none;
+	}
+	.stake-from-head h4, .dividends-footer h4, .dividends-title h4{
+		font-size: 14px;
+	}
+	.stake-from-blk .stake-from-day li span,
+	.stake-from-head .st-bal{
+		font-size: 12px;
+	}
+	/*inner pages end*/
+}
+@media(min-width:992px) and (max-width:1024px){
+	/*comman*/
+	.banner-info-right:before{
+        right: -14px;
+    	height: 125%;
+    	transform: rotate(0deg);
+	}
+	.banner-info-left:before{
+		top: -40px;
+		left: 0px;
+		height: 125%;
+    	width: 107%;
+    	transform: rotate(0deg);
+	}
+
+	.banner-info-center:before{
+		top: -33px;
+    	left: 12px;
+    	height: 118%;
+		transform: rotate(4deg);
+	}
+	/*comman end*/
+	/*header*/
+	.footer-nav ul:after,
+	.navbar:after{
+		width: 520px!important;
+	}
+	/*header end*/
+	/*index*/
+	.banner-details h1{
+		font-size: 50px;
+	}
+	.banner-info{
+		padding: 44px 30px 24px;
+	}
+	.banner-info h4{
+		font-size: 18px;
+	}
+	.banner-info p{
+		font-size: 14px;
+		line-height: 26px;
+	}
+
+	.join-wrapper{
+		padding: 40px 0;
+	}
+	/*index end*/
+	/*inner pages*/
+	.stake-bonus-blk{
+		padding: 0 15px;
+	}
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li{
+		padding: 0;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 40px 20px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 6px;
+	}
+	.stake-active-table .stake-table .table>tbody>tr>td{
+		padding: 10px 0;
+	}
+	.stake-active-table .stake-table, .stake-bonus, .stake-side-form {
+    	padding: 25px 20px;
+	}
+
+	.stake-bonus-head{
+		margin-bottom: 10px;
+	}
+	.stake-bonus-blk .row{
+		display: block;
+	}
+	.stake-bonus-blk .row .col-md-4{
+		width: 100%;
+		flex: 0 0 100%;
+    	max-width: 100%;
+    	padding: 10px 0;
+    	border-right: none;
+    	border-bottom: 2px solid #2a2e88;
+	}
+	.stake-bonus-blk .row .col-md-4:last-child{
+		border: none;
+	}
+	.stake-from-head h4, .dividends-footer h4, .dividends-title h4{
+		font-size: 14px;
+	}
+	.stake-from-blk .stake-from-day li span,
+	.stake-from-head .st-bal{
+		font-size: 12px;
+	}
+
+	.stake-inner{
+		padding: 100px 0 20px;
+	}
+	/*inner pages end*/
+}
+@media(min-width:768px) and (max-width:991px){
+	/*comman*/
+	.banner-info-right:before{
+        right: -14px;
+    	height: 125%;
+    	transform: rotate(0deg);
+	}
+	.banner-info-left:before{
+		top: -40px;
+		left: 0px;
+		height: 125%;
+    	width: 107%;
+    	transform: rotate(0deg);
+	}
+
+	.banner-info-center:before{
+		top: -33px;
+    	left: 12px;
+    	height: 118%;
+		transform: rotate(4deg);
+	}
+	/*comman end*/
+	/*header*/
+	.footer-nav ul:after,
+	.navbar:after{
+		width: 370px!important;
+	}
+	.navbar:after{
+		left: 47%;
+	}
+
+	.navbar-expand-md .navbar-nav .nav-link{
+		padding: 0 14px;
+	}
+	/*header end*/
+	/*index*/
+	.banner-container{
+		padding-bottom: 0;
+	}
+	.banner-wrapper{
+		height: auto;
+		margin: 50px 0;
+	}
+	.banner-details h1{
+		font-size: 40px;
+	}
+	.banner-info{
+		padding: 44px 30px 24px;
+	}
+	.banner-info h4{
+		font-size: 18px;
+	}
+	.banner-info p{
+		font-size: 14px;
+		line-height: 26px;
+	}
+
+	.banner-info-blk{
+		width: 315px;
+		max-width: 100%;
+		margin: 0 auto 100px;
+	}
+
+	.join-us{
+		margin: 50px 0;
+	}
+	.join-wrapper{
+		padding: 40px 0;
+	}
+
+	.about-us{
+		padding: 40px 0 50px;
+	}
+
+	.footer-nav li{
+	    margin-right: 40px;
+	}
+	.footer-wrapper .footer-nav{
+		width: 56%;
+	}
+	.footer-wrapper .footer-btn{
+		width: 24%;
+	}
+	/*index end*/
+	/*inner pages*/
+	.stake-bonus-blk{
+		padding: 0 15px;
+	}
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li{
+		padding: 0;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 40px 20px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 6px;
+	}
+	.stake-active-table .stake-table .table>tbody>tr>td{
+		padding: 10px 0;
+	}
+	.stake-active-table .stake-table, .stake-bonus, .stake-side-form {
+    	padding: 25px 20px;
+	}
+
+	.stake-bonus-head{
+		margin-bottom: 10px;
+	}
+	.stake-bonus-blk .row{
+		display: block;
+	}
+	.stake-bonus-blk .row .col-md-4{
+		width: 100%;
+		flex: 0 0 100%;
+    	max-width: 100%;
+    	padding: 10px 0;
+    	border-right: none;
+    	border-bottom: 2px solid #2a2e88;
+	}
+	.stake-bonus-blk .row .col-md-4:last-child{
+		border: none;
+	}
+	.stake-from-head h4, .dividends-footer h4, .dividends-title h4{
+		font-size: 14px;
+	}
+	.stake-from-blk .stake-from-day li span,
+	.stake-from-head .st-bal{
+		font-size: 12px;
+	}
+
+	.stake-inner{
+		padding: 100px 0 20px;
+	}
+
+	.stake-main{
+		margin-bottom: 40px;
+	}
+	.stake-tabs .nav-tabs .nav-link{
+		font-size: 14px;
+	}
+	.dividend_bx_row .stake-side-details{
+		width: 85%;
+	  }
+	/*inner pages end*/
+}
+@media(min-width:448px) and (max-width:767px){
+	/*comman*/
+	.banner-info-right:before{
+        right: -14px;
+    	height: 125%;
+    	transform: rotate(0deg);
+	}
+	.banner-info-left:before{
+		top: -40px;
+		left: 0px;
+		height: 125%;
+    	width: 107%;
+    	transform: rotate(0deg);
+	}
+
+	.banner-info-center:before{
+		top: -33px;
+    	left: 12px;
+    	height: 118%;
+		transform: rotate(4deg);
+	}
+	/*comman end*/
+	/*header*/
+	.navbar{
+		height: auto;
+		padding: 10px 0;
+	}
+	.footer-nav ul:after,
+	.navbar:after{
+		display: none;
+		width: 370px!important;
+	}
+	.navbar:after{
+		left: 47%;
+	}
+
+	.navbar-expand-md .navbar-nav .nav-link{
+		padding: 0 14px;
+	}
+
+	.navbar-brand{
+		height: auto;
+		padding: 20px 15px;
+	}
+	.navbar-toggler{
+		margin-right: 15px;
+		border-color: #fff;
+	}
+	.navbar-toggler .navbar-toggler-icon{
+		background-color: #fff;
+	}
+
+
+	.navbar .navbar-collapse{
+		padding: 20px;
+		background-color: #30026f;
+	}
+
+	.navbar .navbar-nav{
+		padding: 0px 0;
+	}
+	.navbar .navbar-nav>li{
+		padding: 15px 0;
+	}
+	.navbar .navbar-nav>li.auc-main>a{
+		margin: 0 auto;
+		width: 195px;
+	}
+
+	.navbar .nav-right{
+		float: none;
+		padding: 0;
+	}
+	.navbar .nav-right>li{
+		margin-top: 0;
+	}
+	/*header end*/
+	/*index*/
+	.banner-container{
+		padding-bottom: 0;
+	}
+	.banner-wrapper{
+		height: auto;
+		margin: 50px 0;
+	}
+	.banner-details h1{
+		font-size: 30px;
+		margin: 0 0 20px;
+	}
+	.banner-details p{
+		font-size: 14px;
+		margin: 0 0 25px;
+	}
+	.banner-info{
+		padding: 44px 30px 40px;
+	}
+	.banner-info h4{
+		font-size: 18px;
+	}
+	.banner-info p{
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.banner-details ul li:last-child{
+		margin-bottom: 0;
+	}
+
+	.banner-info-blk{
+		width: 315px;
+		max-width: 100%;
+		margin: 0 auto 100px;
+	}
+
+	.join-us{
+		margin: 0px 0 50px;
+	}
+	.join-wrapper{
+		line-height: 26px;
+		padding: 30px 15px;
+	}
+	.join-details p{
+		font-size: 14px;
+		margin: 0 0 20px;
+		line-height: 26px;
+	}
+	.join-details .btn-main{
+		width: 160px;
+	}
+	.join-details h4{
+		font-size: 30px;
+	}
+
+	.about-us{
+		padding: 40px 0 50px;
+	}
+	.about-content{
+		padding: 20px;
+	}
+	.about-content h4{
+		margin-bottom: 10px;
+	}
+	.about-details{
+		padding-right: 0;
+		text-align: center;
+	}
+	.about-details p,
+	.about-content p{
+		font-size: 14px;
+	}
+
+	.footer-nav li{
+	    margin-right: 40px;
+	}
+	.footer-wrapper .footer-nav{
+		width: 56%;
+	}
+	.footer-wrapper .footer-btn{
+		width: 24%;
+	}
+	.footer-wrapper{
+		display: block;
+	}
+	.footer-wrapper .footer-logo{
+		width: 100%;
+	}
+	.footer-wrapper .footer-logo a{
+		display: block;
+	}
+	.footer-wrapper .auc-main,
+	.footer-wrapper .footer-logo a img{
+		margin: 0 auto;
+	}
+	.footer-wrapper .footer-btn,
+	.footer-wrapper .footer-nav,
+	.footer-wrapper .footer-logo{
+		float: none;
+	}
+	.footer-wrapper .footer-btn,
+	.footer-wrapper .footer-nav{
+		width: 100%;
+	}
+	.footer-company a{
+		margin-top: 20px;
+	}
+	.footer-nav ul{
+		margin-top: 20px;
+	}
+	/*index end*/
+	/*inner pages*/
+	.stake-bonus-blk{
+		padding: 0 15px;
+	}
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li{
+		padding: 0;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 40px 20px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 6px;
+	}
+	.stake-active-table .stake-table .table>tbody>tr>td{
+		padding: 10px 0;
+	}
+	.stake-active-table .stake-table, .stake-bonus, .stake-side-form {
+    	padding: 25px 20px;
+	}
+
+	.stake-bonus-head{
+		margin-bottom: 10px;
+	}
+	.stake-bonus-blk .row{
+		display: block;
+	}
+	.stake-bonus-blk .row .col-md-4{
+		width: 100%;
+		flex: 0 0 100%;
+    	max-width: 100%;
+    	padding: 10px 0;
+    	border-right: none;
+    	border-bottom: 2px solid #2a2e88;
+	}
+	.stake-bonus-blk .row .col-md-4:last-child{
+		border: none;
+	}
+	.stake-from-head h4, .dividends-footer h4, .dividends-title h4{
+		font-size: 14px;
+	}
+	.stake-from-blk .stake-from-day li span,
+	.stake-from-head .st-bal{
+		font-size: 12px;
+	}
+
+	.stake-inner{
+		padding: 80px 0 20px;
+	}
+	.stake-main{
+		margin-bottom: 40px;
+	}
+
+	.dividends-footer span, .dividends-title span{
+		font-size: 11px;
+	}
+	.dividend_bx_row .stake-side-details{
+		width: 85%;
+	  }
+	/*inner pages end*/
+}
+@media(max-width:447px){
+	/*comman*/
+	.banner-info-right:before{
+        right: -14px;
+    	height: 125%;
+    	transform: rotate(0deg);
+	}
+	.banner-info-left:before{
+		top: -40px;
+		left: 0px;
+		height: 125%;
+    	width: 107%;
+    	transform: rotate(0deg);
+	}
+
+	.banner-info-center:before{
+		top: -33px;
+    	left: 12px;
+    	height: 118%;
+		transform: rotate(4deg);
+	}
+	/*comman end*/
+	/*header*/
+	.navbar{
+		height: auto;
+		padding: 10px 0;
+	}
+	.footer-nav ul:after,
+	.navbar:after{
+		display: none;
+		width: 370px!important;
+	}
+	.navbar:after{
+		left: 47%;
+	}
+
+	.navbar-expand-md .navbar-nav .nav-link{
+		padding: 0 14px;
+	}
+
+	.navbar-brand{
+		height: auto;
+		padding: 20px 15px;
+	}
+	.navbar-toggler{
+		margin-right: 15px;
+		border-color: #fff;
+	}
+	.navbar-toggler .navbar-toggler-icon{
+		background-color: #fff;
+	}
+
+
+	.navbar .navbar-collapse{
+		padding: 20px;
+		background-color: #30026f;
+	}
+
+	.navbar .navbar-nav{
+		padding: 0px 0;
+	}
+	.navbar .navbar-nav>li{
+		padding: 15px 0;
+	}
+	.navbar .navbar-nav>li.auc-main>a{
+		margin: 0 auto;
+		width: 195px;
+	}
+
+	.navbar .nav-right{
+		float: none;
+		padding: 0;
+	}
+	.navbar .nav-right>li{
+		margin-top: 0;
+	}
+	/*header end*/
+	/*index*/
+	.banner-container{
+		padding-bottom: 0;
+	}
+	.banner-wrapper{
+		height: auto;
+		margin: 50px 0 80px;
+	}
+	.banner-details h1{
+		font-size: 24px;
+		margin: 0 0 20px;
+	}
+	.banner-details p{
+		font-size: 14px;
+		margin: 0 0 25px;
+	}
+	.banner-info{
+		padding: 44px 20px 30px;
+	}
+	.banner-info h4{
+		font-size: 16px;
+		margin: 0 auto 10px;
+	}
+	.banner-info p{
+		font-size: 12px;
+    	line-height: 22px;
+	}
+	.banner-details ul li:last-child{
+		margin-right: 0;
+	}
+	.banner-info .bn-icon{
+	    top: -35px;
+    	left: 20px;
+	}
+	.banner-details ul li .btn-main{
+	    min-width: 120px;
+	}
+
+	.banner-info-blk{
+		width: 250px;
+		max-width: 100%;
+		margin: 0 auto 100px;
+	}
+
+	.join-us{
+		margin: 0px 0 50px;
+	}
+	.join-wrapper{
+		line-height: 26px;
+		padding: 30px 15px;
+	}
+	.join-details p{
+		font-size: 14px;
+		margin: 0 0 20px;
+		line-height: 26px;
+	}
+	.join-details .btn-main{
+		width: 110px;
+		padding: 10px 15px;
+	}
+	.join-details h4{
+		font-size: 22px;
+	}
+
+	.about-tabs .nav-item .nav-link.active{
+	    width: 80px;
+	}
+	.about-tabs .nav-item .nav-link{
+		width: 35px;
+	}
+	.about-tabs .nav-item .nav-link:after{
+		background-size: 15px;
+	}
+	.about-us{
+		padding: 40px 0 50px;
+	}
+	.about-content{
+		padding: 20px;
+	}
+	.about-content h4{
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	.about-details{
+		padding-right: 0;
+		text-align: center;
+	}
+	.about-details p,
+	.about-content p{
+		font-size: 14px;
+	}
+
+	.footer-nav li{
+	    margin-right: 20px;
+	}
+	.footer-wrapper .footer-nav{
+		width: 56%;
+	}
+	.footer-wrapper .footer-btn{
+		width: 24%;
+	}
+
+	.footer-wrapper{
+		display: block;
+	}
+	.footer-wrapper .footer-logo{
+		width: 100%;
+	}
+	.footer-wrapper .footer-logo a{
+		display: block;
+	}
+	.footer-wrapper .auc-main,
+	.footer-wrapper .footer-logo a img{
+		margin: 0 auto;
+	}
+	.footer-wrapper .footer-btn,
+	.footer-wrapper .footer-nav,
+	.footer-wrapper .footer-logo{
+		float: none;
+	}
+	.footer-wrapper .footer-btn,
+	.footer-wrapper .footer-nav{
+		width: 100%;
+	}
+	.footer-company a{
+		margin-top: 20px;
+	}
+	.footer-nav ul{
+		margin-top: 20px;
+	}
+	/*index end*/
+	/*inner pages*/
+	.stake-bonus-blk{
+		padding: 0 15px;
+	}
+	.stake-bonus-list{
+		padding: 0 10px;
+	}
+	.stake-bonus-list li{
+		padding: 0;
+	}
+	.stake-bonus-list li p{
+		font-size: 12px;
+	}
+
+	.stake-income .stake-side-auction {
+    	padding: 40px 20px;
+	}
+	.stake-active-table .stake-table .table>thead>tr>th{
+		padding: 20px 6px;
+	}
+	.stake-active-table .stake-table .table>tbody>tr>td{
+		padding: 10px 0;
+	}
+	.stake-active-table .stake-table, .stake-bonus, .stake-side-form {
+    	padding: 25px 20px;
+	}
+	.stake-from-head .st-bal{
+		margin: 0 auto;
+		float: none;
+		justify-content: center;
+	}
+
+	.stake-table-head h5,
+	.dividends-footer span, .dividends-title span,
+	.stake-from-head h4, .dividends-footer h4, .dividends-title h4{
+		float: none;
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+	.dividends-footer span, .dividends-title span{
+		margin-top: 5px;
+	}
+	.stake-table-head .btn-main{
+		float: none;
+		margin: 20px auto 0;
+	}
+	.stake-side-auction, .stake-side-details{
+		padding: 32px 20px;
+	}
+	.stake-side-auction p, .stake-side-details p{
+		font-size: 12px;
+	}
+
+	.dividends-wrapper{
+		padding: 30px 15px;
+	}
+
+	.stake-bonus-head{
+		margin-bottom: 10px;
+	}
+	.stake-bonus-blk .row{
+		display: block;
+	}
+	.stake-bonus-blk .row .col-md-4{
+		width: 100%;
+		flex: 0 0 100%;
+    	max-width: 100%;
+    	padding: 10px 0;
+    	border-right: none;
+    	border-bottom: 2px solid #2a2e88;
+	}
+	.stake-bonus-blk .row .col-md-4:last-child{
+		border: none;
+	}
+	.stake-from-head h4, .dividends-footer h4, .dividends-title h4{
+		font-size: 14px;
+	}
+	.stake-from-blk .stake-from-day li span,
+	.stake-from-head .st-bal{
+		font-size: 12px;
+	}
+
+	.stake-inner{
+		padding: 80px 0 20px;
+	}
+
+	.dividends-footer span, .dividends-title span{
+		font-size: 11px;
+	}
+
+	.stake-inner{
+		padding: 80px 0 20px;
+	}
+	.stake-main{
+		padding: 40px 20px;
+		margin-bottom: 40px;
+	}
+
+	.stake-tabs .nav-tabs .nav-link{
+		font-size: 12px;
+		padding: 18px 8px;
+	}
+
+	.stake-table .table>tbody>tr>td{
+		padding: 20px 12px;
+	}
+	/*inner pages end*/
+}
+
